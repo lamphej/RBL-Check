@@ -1,0 +1,43 @@
+Barracuda:
+Barracuda Reputation Block list - b.barracudacentral.org
+Barracuda Reputation Block list (for SpamAssasin) - bb.barracudacentral.org
+
+SORBS:
+SORBS Aggregate Zone - dnsbl.sorbs.net
+SORBS Aggregate Zone (Problems) - problems.dnsbl.sorbs.net
+SORBS Aggregate Zone (proxies) - proxies.dnsbl.sorbs.net
+SORBS Aggregate Zone (Relays) - relays.dnsbl.sorbs.net
+SORBS Aggregate Zone (Safe) - safe.dnsbl.sorbs.net
+SORBS Domain names indicating no email sender - nomail.rhsbl.sorbs.net
+SORBS Domain names pointing to bad addresses - badconf.rhsbl.sorbs.net
+SORBS Dynamic IP Addresses - dul.dnsbl.sorbs.net
+SORBS hijacked networks - zombie.dnsbl.sorbs.net
+SORBS Hosts Demanding never be tested by SORBS - block.dnsbl.sorbs.net
+SORBS Netblocks of spam supporting service providers - escalations.dnsbl.sorbs.net
+SORBS Open HTTP Proxies - http.dnsbl.sorbs.net
+SORBS Open other Proxies - misc.dnsbl.sorbs.net
+SORBS Open SMTP Relays - smtp.dnsbl.sorbs.net
+SORBS Open SOCKS Proxies - socks.dnsbl.sorbs.net
+SORBS RHS Aggregate Zone - rhsbl.sorbs.net 
+SORBS Spamhost (any time) - spam.dnsbl.sorbs.net 
+SORBS Spamhost (last 28 days) - recent.spam.dnsbl.sorbs.net
+SORBS Spamhost (last 48 hours) - new.spam.dnsbl.sorbs.net
+SORBS Spamhost (last year) - old.spam.dnsbl.sorbs.net
+SORBS Vulnerable formmailers - web.dnsbl.sorbs.net
+
+HostKarma:
+Hostkarma no blacklist - nobl.junkemailfilter.com
+
+SpamRats!:
+SpamRATS! all - all.spamrats.com 	
+SpamRATS! Dyna - dyna.spamrats.com 	
+SpamRATS! NoPtr - noptr.spamrats.com 	
+SpamRATS! Spam - spam.spamrats.com
+
+SpamCannibal:
+SpamCannibal - bl.spamcannibal.org
+
+StopSpam.org:
+StopSpam.org badhost - badhost.stopspam.org
+StopSpam.org block - block.stopspam.org
+StopSpam.org dnsbl - dnsbl.stopspam.org

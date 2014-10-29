@@ -1,0 +1,8 @@
+Spamhaus:
+Spamhaus DBL Domain Block List - dbl.spamhaus.org
+Spamhaus PBL Policy Block List - pbl.spamhaus.org 	
+Spamhaus SBL Spamhaus Block List - sbl.spamhaus.org 	
+Spamhaus SBL-XBL Combined Block List - sbl-xbl.spamhaus.org 	
+Spamhaus XBL Exploits Block List - xbl.spamhaus.org 	
+Spamhaus ZEN Combined Block List - zen.spamhaus.org
+

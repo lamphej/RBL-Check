@@ -1,0 +1,23 @@
+UCEPROTECT:
+UCEPROTECT Level 0 	dnsbl - 0.uceprotect.net
+UCEPROTECT Level 1 	dnsbl - 1.uceprotect.net
+UCEPROTECT Level 2 	dnsbl - 2.uceprotect.net
+UCEPROTECT Level 3 	dnsbl - 3.uceprotect.net
+
+Truncate:
+truncate.gbudb.net - truncate.gbudb.net
+
+Spam Eating Monkey:
+Spam Eating Monkey SEM-BACKSCATTER - backscatter.spameatingmonkey.net 	
+Spam Eating Monkey SEM-BADNETS - badnets.spameatingmonkey.net 	
+Spam Eating Monkey SEM-BLACK - bl.spameatingmonkey.net 	
+Spam Eating Monkey SEM-FRESH - fresh.spameatingmonkey.net 
+Spam Eating Monkey SEM-FRESH10 - fresh10.spameatingmonkey.net 	
+Spam Eating Monkey SEM-FRESH15 - fresh15.spameatingmonkey.net 	
+Spam Eating Monkey SEM-NETBLACK - netbl.spameatingmonkey.net 	
+Spam Eating Monkey SEM-URI - uribl.spameatingmonkey.net 	
+Spam Eating Monkey SEM-URIRED - urired.spameatingmonkey.net
+
+Surbl:
+SURBL multi (Combined SURBL list) - multi.surbl.org
+SpamCop Blocking List - bl.spamcop.net
